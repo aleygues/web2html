@@ -3,6 +3,10 @@
     "version": "1.0.0",
     "main": "index.js",
     "license": "MIT",
+    "repository": {
+        "url": "https://github.com/aleygues/web2html",
+        "type": "github"
+    },
     "scripts": {
         "dev": "tsnd ./src/index.ts",
         "build": "tsc",
